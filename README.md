@@ -1,16 +1,99 @@
-## Hi there 👋
+# Hi 👋 I'm Axliyor
 
-<!--
-**Crypton404/Crypton404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=700&lines=Always+Learning+New+Things;Android+App+Developer;React+Developer;C%2B%2B+Programmer" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 💻 Computer Science Student
+* 📱 Android Application Developer
+* 🌐 Full-Stack Web Developer
+* ⚡ Experienced with Python, C++, Kotlin, React, HTML, CSS, Tailwind, Firebase
+* 🧠 Passionate about **Systems Programming & Computer Architecture**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,kotlin" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=android,kotlin" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,firebase,vscode,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crypton404&show_icons=true&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypton404&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Crypton404&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Crypton404/Crypton404/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/Axliyor-uz><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/axliyor-uz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/A_Tojiboyev">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 💡 Current Focus
+
+* Developing **modern React applications**
+* Building **Android apps with Kotlin**
+* Learning **advanced systems programming & architecture**
+* Exploring **cloud and Firebase backends**
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=500&color=FFDD00&center=true&vCenter=true&width=600&lines=Code;Learn;Build;Share;Repeat" />
+</p>
+
+---
+
+⭐ *Always building. Always learning. Always sharing.*
