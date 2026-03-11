@@ -1,4 +1,4 @@
-# Hi 👋 I'm Axliyor
+# Hi 👋 I'm Akhliyor
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=700&lines=Always+Learning+New+Things;Android+App+Developer;React+Developer;C%2B%2B+Programmer" />
@@ -61,18 +61,11 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Crypton404/Crypton404/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/Axliyor-uz><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Crypton404><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/axliyor-uz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/A_Tojiboyev">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
