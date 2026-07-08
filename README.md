@@ -27,7 +27,7 @@
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,typescript,javascript,react,next.js" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,typescript,javascript,react,nextjs" />
 </p>
 
 ### Mobile Development
@@ -39,7 +39,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,firebase,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,firebase,vscode,linux,docker" />
 </p>
 
 ---
