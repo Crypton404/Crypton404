@@ -27,7 +27,7 @@
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,typescript,javascript,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,typescript,javascript,react,nextjs,ai" />
 <img src="https://skillicons.dev/icons?i=django,sqlite,postgresql" />
 </p>
 
