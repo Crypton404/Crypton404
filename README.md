@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 
-* 💻 Computer Science Student
+* 💻 Computer Science Student, (Cyber Security)
 * 📱 Android Application Developer
-* 🌐 Full-Stack Web Developer
-* ⚡ Experienced with Python, C++, Kotlin, React, HTML, CSS, Tailwind, Firebase
+* 🌐 Frontend Developer, Backend Developer
+* ⚡ Experienced with Python, C++, Javascript, Typescript, Kotlin, React, HTML, CSS, Tailwind, Firebase
 * 🧠 Passionate about **Systems Programming & Computer Architecture**
 
 ---
