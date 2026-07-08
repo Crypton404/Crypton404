@@ -11,8 +11,8 @@
 * 💻 Computer Science Student, (Cyber Security)
 * 📱 Android Application Developer
 * 🌐 Frontend Developer, Backend Developer
-* ⚡ Experienced with Python, C++, Javascript, Typescript, Kotlin, React, HTML, CSS, Tailwind, Firebase
-* 🧠 Passionate about **Systems Programming & Computer Architecture**
+* ⚡ Experienced with Python, C++, Javascript, Typescript, Kotlin, React, Next.js HTML, CSS, Tailwind, Firebase
+* 🧠 Passionate about **Systems Programming & Computer Architecture & Networking**
 
 ---
 
@@ -27,7 +27,7 @@
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,typescript,javascript,react,next.js" />
 </p>
 
 ### Mobile Development
