@@ -34,7 +34,7 @@
 ### Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,compose,jetpackcompose" />
 </p>
 
 ### Tools
