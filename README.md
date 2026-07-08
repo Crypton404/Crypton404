@@ -28,6 +28,7 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,typescript,javascript,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=SQLite,postgresql" />
 </p>
 
 ### Mobile Development
